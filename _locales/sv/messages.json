@@ -1,0 +1,22 @@
+{
+   "clearButtonTitle": {
+      "description": "Titel f\u00F6r rensaknappen.",
+      "message": "Rensa s\u00F6khistoriken."
+   },
+   "clearButtonValue": {
+      "description": "Titel f\u00F6r s\u00F6khistoriklistan.",
+      "message": "S\u00F6khistorik"
+   },
+   "extDesc": {
+      "description": "Extension beskrivning.",
+      "message": "G\u00F6r s\u00F6kning m\u00F6jlig direkt fr\u00E5n textmarkering."
+   },
+   "extName": {
+      "description": "Extension namn.",
+      "message": "Tyda"
+   },
+   "translate": {
+      "description": "\u00D6vers\u00E4ttningsverb som anv\u00E4nds.",
+      "message": "\u00D6vers\u00E4tt"
+   }
+}

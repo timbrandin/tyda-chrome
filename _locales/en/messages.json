@@ -1,0 +1,22 @@
+{
+   "clearButtonTitle": {
+      "description": "Titl for the clear button.",
+      "message": "Clear search history."
+   },
+   "clearButtonValue": {
+      "description": "Title for the search history lists.",
+      "message": "Search history"
+   },
+   "extDesc": {
+      "description": "Extension description.",
+      "message": "Enables translation search directly from a text selection."
+   },
+   "extName": {
+      "description": "Extension name.",
+      "message": "Tyda"
+   },
+   "translate": {
+      "description": "Translation noun used.",
+      "message": "Translate"
+   }
+}
